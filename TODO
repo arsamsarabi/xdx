@@ -1,0 +1,5 @@
+[] Replace commander by gluegun
+[] Implement Eslint
+[] Implement Prettier
+[] Implement Husky & lint-staged
+[] Implement commitlint

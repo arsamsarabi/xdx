@@ -1,0 +1,10 @@
+import { render } from '@testing-library/react';
+import { <%= name %>, type <%= name %>Props } from './<%= name %>';
+
+describe('<<%= name %> />', () => {
+  it('Should render correctly', () => {
+    const props: <%= name %>Props = {}
+
+    render(<<%= name %> {...props} />);
+  });
+});

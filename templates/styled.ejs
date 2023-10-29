@@ -1,0 +1,9 @@
+import { styled, css } from 'styled-components';
+
+export const Styled<%= name %> = styled.div(({ theme }) => {
+  const { colors } = theme;
+
+  return css`
+    border: 1px double ${colors.primary};
+  `;
+});
