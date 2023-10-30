@@ -11,3 +11,8 @@
 
 [] Tidy up codebase & data flow
 [] Look into state machines for node
+
+# CI/CD
+
+[] Github action workflows
+[] changesets
