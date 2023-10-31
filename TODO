@@ -1,4 +1,6 @@
-# repo
+# TODOs
+
+## Repo
 
 [] Turborepo
 [] Replace commander by gluegun
@@ -7,12 +9,16 @@
 [] Implement Husky & lint-staged
 [] Implement commitlint
 
-# Project
+## Project
 
 [] Tidy up codebase & data flow
 [] Look into state machines for node
 
-# CI/CD
+### Components
+
+[] Import css module/ styled file in component if they are created
+
+## CI/CD
 
 [] Github action workflows
 [] changesets
